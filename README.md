@@ -1,9 +1,9 @@
-# regularcheck
+# reg-check
 常用正则表达式
 
 
 ```
-const reg = require('regularcheck');
+const reg = require('reg-check');
 console.log(reg.email.test('123@gmail.com')) // log true
 
 email
