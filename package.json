@@ -1,0 +1,19 @@
+{
+  "name": "regularcheck",
+  "version": "1.0.0",
+  "description": "常用正则表达式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roc-zhou/regularCheck.git"
+  },
+  "author": "rocZhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roc-zhou/regularCheck/issues"
+  },
+  "homepage": "https://github.com/Roc-zhou/regularCheck#readme"
+}
