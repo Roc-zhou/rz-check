@@ -2,8 +2,11 @@
 常用正则表达式
 
 
-```
-const reg = require('reg-check');
+```js
+const reg = require('rz-check') 
+or
+import reg from 'rz-check'
+
 console.log(reg.email.test('123@gmail.com')) // log true
 
 email
