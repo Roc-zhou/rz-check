@@ -3,9 +3,9 @@
 
 
 ```js
-const reg = require('rz-check') 
+const reg = require('reg-check') 
 or
-import reg from 'rz-check'
+import reg from 'reg-check'
 
 console.log(reg.email.test('123@gmail.com')) // log true
 
