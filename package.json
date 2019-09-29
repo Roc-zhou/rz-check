@@ -1,6 +1,6 @@
 {
   "name": "reg-check",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "常用正则表达式",
   "main": "index.js",
   "scripts": {
